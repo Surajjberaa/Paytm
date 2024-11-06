@@ -8,6 +8,8 @@ git clone https://github.com/Surajjberaa/Paytm.git
 - npm install
 - Run postgres either locally or on the cloud (neon.tech)
 
+
+
 ```jsx
 docker run  -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 postgres
 ```
