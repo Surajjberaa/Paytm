@@ -4,6 +4,7 @@
 git clone https://github.com/Surajjberaa/Paytm.git
 ```
 
+
 - npm install
 - Run postgres either locally or on the cloud (neon.tech)
 
